@@ -1,0 +1,19 @@
+import = ["/home/dave/.config/alacritty/themes/gruvbox.toml"]
+live_config_reload = true
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMono NF"
+
+[shell]
+args = ["new-session", "-A", "-D", "-s", "main"]
+program = "/usr/bin/tmux"
+
+[window]
+decorations = "none"
+
+[window.padding]
+x = 7
+y = 0

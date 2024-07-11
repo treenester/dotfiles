@@ -286,6 +286,22 @@ ls.add_snippets(nil, {
 			text({ "]", "comments: true", "---", "" }),
 			insert(0),
 		}),
+		snip({
+			trig = "scr",
+			namr = "Scripture",
+			dscr = "Scripture Link Ref",
+		}, {
+			text("[Scripture Reference](https://av1611.com/verseclick/gobible.php?p=ge_1.1-2)"),
+			insert(0),
+		}),
+		snip({
+			trig = "page",
+			namr = "Page break",
+			dscr = "Break Before",
+		}, {
+			text('<div style="page-break-before:always"></div>'),
+			insert(0),
+		}),
 	},
 	go = {
 		snip("test", {
