@@ -126,11 +126,10 @@ export SWORD_PATH="${HOME}/.sword"
 # source todo_completion
 
 # added by dlb - nvim bash_aliases
-alias vi="nvim"
-
-alias nvim-lazy="NVIM_APPNAME=nvim-lazy nvim"
-alias nvim-chad="NVIM_APPNAME=nvim-chad nvim"
-alias nvim-astro="NVIM_APPNAME=nvim-astro nvim"
+# alias vi="nvim"
+# alias nvim-lazy="NVIM_APPNAME=nvim-lazy nvim"
+# alias nvim-chad="NVIM_APPNAME=nvim-chad nvim"
+# alias nvim-astro="NVIM_APPNAME=nvim-astro nvim"
 
 function vs() {
   items=("default" "nvim-lazy" "nvim-chad" "nvim-astro")
@@ -140,6 +139,7 @@ function vs() {
     return 0
   elif [[ $config == "default" ]]; then
     config=""
+    alias vi="NVIM_APPNAME=${config} nvim"
   else
     alias vi="NVIM_APPNAME=${config} nvim"
   fi
