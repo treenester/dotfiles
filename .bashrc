@@ -88,7 +88,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias w='cd /media/dave/Working/'
+# alias w='cd /media/dave/Working/'
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
@@ -126,10 +126,13 @@ export SWORD_PATH="${HOME}/.sword"
 # source todo_completion
 
 # added by dlb - nvim bash_aliases
+export EDITOR="nvim"
 # alias vi="nvim"
 # alias nvim-lazy="NVIM_APPNAME=nvim-lazy nvim"
 # alias nvim-chad="NVIM_APPNAME=nvim-chad nvim"
 # alias nvim-astro="NVIM_APPNAME=nvim-astro nvim"
+
+export LEDGER_FILE="$HOME/Dropbox/Home/Finance/Banking/main.journal"
 
 function vs() {
   items=("default" "nvim-lazy" "nvim-chad" "nvim-astro")
