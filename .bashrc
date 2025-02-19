@@ -120,6 +120,7 @@ fi
 # added by dlb - add my bin folder to path
 export PATH="$PATH:$HOME/bin:$HOME/.local/bin"
 export PATH="$HOME/.tmuxifier/bin:$PATH"
+export PATH="$HOME/go/bin/:$PATH"
 export SWORD_PATH="${HOME}/.sword"
 
 # added by dlb - todo completion
@@ -149,8 +150,8 @@ function vs() {
   NVIM_APPNAME=$config nvim $@
 }
 
-eval "$(tmuxifier init -)"
-eval "$(starship init bash)"
+# eval "$(tmuxifier init -)"
+# eval "$(starship init bash)"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
