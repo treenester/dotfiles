@@ -1,0 +1,19 @@
+theme = "gruvbox_dark_soft"
+
+[editor]
+true-color = true
+line-number = "relative"
+bufferline = "multiple"
+mouse = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.soft-wrap]
+wrap-indicator = ""
+enable = true
+
+[editor.file-picker]
+hidden = false

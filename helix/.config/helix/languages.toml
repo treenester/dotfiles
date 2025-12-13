@@ -1,0 +1,21 @@
+# in <config_dir>/helix/languages.toml
+
+[language-server.mylang-lsp]
+command = "mylang-lsp"
+
+[[language]]
+name = "rust"
+auto-format = false
+
+# [[language]]
+# name = "markdown"
+# language-servers = [ "marksman" ]
+# language-servers = [ "mdpls" ]
+# [language-server.mdpls]
+# command = "mdpls"
+# config = { markdown.preview.auto = true }
+# auto-format = false
+
+[[language]]
+name = "yaml"
+auto-format = false
