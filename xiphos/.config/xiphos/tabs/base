@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Xiphos_Tabs Version="4.3.2">
+  <tabs>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="2Pet 2:1" dictlex_key="Grace" book_offset="" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Ezek 37:1" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Col 3:12" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Ezekiel 30:21" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+  </tabs>
+</Xiphos_Tabs>

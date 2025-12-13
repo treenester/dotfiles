@@ -23,12 +23,12 @@ sudo apt install stow
 First, check out the dotfiles repo in your $HOME directory using git
 
 ```
-$ git clone https://github.com/treenester/dotfiles.git
-$ cd dotfiles
+git clone https://github.com/treenester/dotfiles.git
+cd dotfiles
 ```
 
 then use stow to create symlinks
 
 ```
-$ stow .
+stow <dirname>
 ```
