@@ -24,3 +24,4 @@ alias l='ls -CF'
 export PATH="$PATH:$HOME/bin:$HOME/.local/bin"
 
 PS1='[\u@\h \W]\$ '
+eval "$(starship init bash)"

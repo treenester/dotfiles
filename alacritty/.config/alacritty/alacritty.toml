@@ -5,9 +5,9 @@
 [font.normal]
   family = "JetBrainsMono NF"
 
-#[terminal.shell]
- # args = ["new-session", "-A", "-D", "-s", "main"]
-  #program = "/usr/bin/tmux"
+[terminal.shell]
+  args = ["new-session", "-A", "-D", "-s", "main"]
+  program = "/usr/bin/tmux"
 
 [window]
   decorations = "none"

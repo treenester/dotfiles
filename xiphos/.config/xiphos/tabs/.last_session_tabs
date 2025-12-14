@@ -2,8 +2,8 @@
 <Xiphos_Tabs Version="4.3.2">
   <tabs>
     <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Rev 1:9" dictlex_key="Grace" book_offset="" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
-    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Dan 11:1" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Hos 12:1" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
     <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Col 3:12" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
-    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Ezekiel 30:21" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
+    <tab text_mod="KJV" commentary_mod="MHC" dictlex_mod="" book_mod="" text_commentary_key="Ezek 30:15" dictlex_key="Grace" book_offset="0" comm_showing="yes" showtexts="yes" showpreview="yes" showcomms="yes" showdicts="yes" showparallel="no"/>
   </tabs>
 </Xiphos_Tabs>
