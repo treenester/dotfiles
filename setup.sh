@@ -2,11 +2,9 @@
 
 # Create symlinks for bash configuration
 
-DOTFILES_REPOSITORY=$HOME/dotfiles
+ln -sf "~/dotfiles/bashrc/.bashrc" "~/.bashrc"
 
-ln -sf "$DOTFILES_REPOSITORY/bashrc/.bashrc" "$HOME/.bashrc"
-
-ln -sf "$DOTFILES_REPOSITORY/helix/.config/helix/" "$HOME/.config/helix/"
+ln -sf "~/dotfiles/helix/.config/helix/" "~/.config/helix/"
 
 
 echo "Dotfiles installation complete!"
