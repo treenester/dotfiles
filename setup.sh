@@ -2,6 +2,6 @@
 
 # Create symlinks for bash configuration
 
-cd ~/dotfiles && stow .
+# cd ~/dotfiles && stow .
 
 echo "Dotfiles installation complete!"
