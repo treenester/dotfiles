@@ -2,9 +2,6 @@
 
 # Create symlinks for bash configuration
 
-ln -sf "~/dotfiles/bashrc/.bashrc" "~/.bashrc"
-
-ln -sf "~/helix/.config/helix/" "~/.config/helix/"
-
+cd ~/dotfiles && stow .
 
 echo "Dotfiles installation complete!"
