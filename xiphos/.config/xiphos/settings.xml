@@ -12,7 +12,7 @@
   </editor>
   <locale>
     <special/>
-  <special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special></locale>
+  <special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special><special>System Default</special></locale>
   <modmgr>
     <mod_mgr_source>1</mod_mgr_source>
     <mod_mgr_destination>0</mod_mgr_destination>
@@ -50,7 +50,7 @@
     <book>0</book>
     <dictionary>Grace</dictionary>
     <verse>Rev 1:9</verse>
-  <offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset></offset></keys>
+  <offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset/><offset></offset></keys>
   <layout>
     <maximized>1</maximized>
     <height>1048</height>
@@ -83,7 +83,7 @@
     <vltoppaneheight>210</vltoppaneheight>
     <sidebar_notebook_height>404</sidebar_notebook_height>
     <bibleheight>250</bibleheight>
-    <commentaryheight>519</commentaryheight>
+    <commentaryheight>517</commentaryheight>
   </layout>
   <lexicons>
     <indictpane>1</indictpane>
@@ -139,4 +139,4 @@
   <tabs>
     <browsing>1</browsing>
   </tabs>
-<locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/></Xiphos>
+<locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/><locale/></Xiphos>

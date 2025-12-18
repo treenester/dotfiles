@@ -22,4 +22,6 @@ alias l='ls -CF'
 # added by dlb - add my bin folder to path
 export PATH="$PATH:$HOME/bin:$HOME/.local/bin"
 
+eval "$(starship init bash)"
+
 PS1='[\u@\h \W]\$ '
